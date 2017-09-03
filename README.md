@@ -26,6 +26,6 @@ merge3
 bla
 bla
 bla
-
+bla
 bla
 Merge 4
